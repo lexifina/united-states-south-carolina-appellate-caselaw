@@ -1,0 +1,23 @@
+---
+court: "South Carolina Court of Appeals"
+decided: "1827-01"
+citations: ["2 McCord Eq. 28", "7 S.C. Eq. 28"]
+reporter: "sc-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Garrett, Administrator of Elizabeth Day, Deceased v. John Day, Administrator of James Day, Deceased."]
+source_url: "https://static.case.law/sc-eq/7/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12121240
+---
+
+# Garrett v. Day
+
+## Majority (Colcock, J.)
+
+Curia, per
+Colcock, J.
+The question presented for our determination is, whether John Day, as administrator of his brother’s estate, shall be allowed to retain in his hands the one-ninth of William Hall’s estate, which was decreed to him in the decision of the first case, on a mistaken view of the facts of that case ? That the facts *were mistaken, admits of no doubt. It is shown to the by John Day himself, who is now filing- a bill against John H. Garrett as the administrator of Elizabeth Day, to account for property purchased by her at the sale of her husband James Day’s estate ; and in the decree delivered by Judge James at the May sitting of the court of appeals for 1823, he states expressly, that the wife died before the husband. It would be difficult to meet the justice of this case if the parties stood before us in the same situation in which they stood before the court which made that decree. But their situations are materially changed, and therefore, I think justice can be done without any violation of those wholesome and well established rules, by which parties are prevented from reinvestigating the judicial decisions of the country. John Day is now the applicant to this court to compel John IT. Garrett to do equity: and I think we have a right to say, “we will not aid you without requiring that you yourself shall also do justice. It is true that you have obtained a decree for one-ninth of William Hall’s estate; but you show us that it was improperly obtained, perhaps not by fraud, but clearly by a mistake.” But, it is replied, the mistake might have been rectified by the present defendants. They rejoin, “ it was not incumbent on us to do so on that occasion ; for we were then asking for our share of our father’s estate; but now we are asking for our share of our brother’s. Then we received all and perhaps more than we were entitled to, as our portion of our father’s estate. We had nothing to complain of: what you withheld was a part of our mother’s share of her husband’s estate, which we were not then claiming, and which could not have been adjudged to us : first, because it was not asked for, and secondly, because no administration was granted to us of her estate.”
+It is contended by the complainant’s counsel, that if *the sum allowed to the defendants, it will be reversing the decision of the former court : but it is not so in fact. The decree stands : we do not pretend to reverse it. We say to the complainant, “you have obtained a decree, by which the rights of one not before the court were affected. That which you claimed for your brother was your sister’s : and although you then had a right to withhold it from the defendants, you have no such right now.” To illustrate this matter further. Suppose a proper view of the facts had been taken at the time of the first decision. Hall left some children and a widow; the children were entitled to two-thirds of his estate, and no more. And this was the only question which the court were called on by the pleadings to decide. The widow was entitled to one-third ; but whether James Day, her second husband, had acquired a right to the whole, or only to a part of her third, was not a question made; and the determination on that point was gratuitous, extra-judicial, and made on a mistaken view of the facts. James Day had not so reduced to possession his wife’s portion of her first husband’s estate as to be entitled to any part of it, and he died before his wife; so that her rights remain as though she had never been married to him. Her representatives are now entitled to the third of their father’s estate which belonged to their mother: consequently, the sum which John Day retained as his brother’s is now the properly of the defendants. As to what disposition the administrator may make of the property which may come into his hands, is not now a question to be considered by the court.
+The decree of the chancellor is reversed ; and the accounts again referred to the commissioner, to be adjusted on the principles of this decree.
+Decree reversed.
