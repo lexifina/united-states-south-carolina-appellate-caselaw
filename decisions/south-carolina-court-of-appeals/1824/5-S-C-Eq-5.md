@@ -1,0 +1,33 @@
+---
+court: "South Carolina Court of Appeals"
+decided: "1824-03"
+citations: ["1 Harp. Eq. 5", "5 S.C. Eq. 5"]
+reporter: "sc-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chancellors Desaussure, Waties, Thompson and James, concurring."]
+parties: ["Exparte, Abraham Dupont and his wife Jane, and Daniel and Ann Pepper."]
+source_url: "https://static.case.law/sc-eq/5/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8713702
+cites_cases: ["1 Dall. 402", "2 Cra. 280", "2 Cranch, 294", "2 Dall. 225", "2 Mass. Rep. 179", "2 Mass. Rep. 246", "3 Dall 133", "3 Dall. 238", "4 Cra, 214", "4 Cra. 24", "4 Cra. 321", "4 Cranch, 209", "4 Johns. 74", "4 Wheat. 453", "7 Cra. 603", "7 Cranch, 609"]
+---
+
+# Ex parte Dupont
+
+## Majority (By the Court.)
+
+By the Court.
+This case is of great importance and involves principles of great delicacy and difficulty. These have been very fully examined in the decree of the circuit court. On a careful consideration of that decree we are fully' satisfied therewith. It is therefore ordered and adjudged, that the decree of the circuit court be affirmed.
+Chancellors Desaussure, Waties, Thompson and James, concurring.
+
+## Dissent (Chancellor, Gaillard, Chancellor Waties.)
+
+Chancellor, Gaillard,
+dissenting. — It was admitted by the counsel for the petitioners, on the argument of this case, that if Mrs. Shanks was a British subject, her children are entitled to lake; which renders unnecessary any other enquiry than whether she was a British subject. In making it, the law of England must govern, and it is immaterial whether Mrs. Shanks could or could not take by descent under the .laws of this state; for in neither case, would her rights as a British subject be affected.
+The supreme court of the United States, in J\J‘llvaine against Coxe’s lessee, 4th Cranch, decided that a citizen who joined the enemy and adhered to them, claiming to be a British subject and receiving compensation from that government, bad a right to take lands by descent in New-Jersey; upon the principle that the several states which composed the union, so far at least as regarded their municipal regulations, became entitled from the time when they declared themselves independent, to all the rights and powers ot sovereign states, and that they did not derive them from concessions made by the British king. South Carolina, as tegarded her municipal regulations, was a sovereign state prior to the declaration of independence in 1776; for she had before that time thrown off her 'allegiance to Great Britain, and governed herself by her own authority and laws; and - every nation that governs itself, under what form without any dependence on foreign power, is a sovereign state. Vat tel, lb. 1. ch. 1 Section 4th. The claim in M'llvaine against Coxe’s lessee was decided under the laws of New-Jersey 1 The Shanks set up no claim under the laws of South-Carolina, but under the treaties of 1783 and 1794, between the United States and Great Britain; and admitting that Mrs. Shanks could take by descent under the laws of the state, this right could not impair her rights as a British subject; treaties being the supreme law of the'land. Mrs. Shanks married a British officer, a subject of Great Britain, in 1781, and-went with him to Wales, where she resided until her death in 1801. Her father from whom she claimed, died in 1782, and in Ogden against Folliott, in error, 3rd. Term reports, 726, the court considered as a nullity the acts of confiscation passed m the several states of North-America, after the declaration of independence and before the treaty of peace; recognizing the independence of the United States only from the definitive tre.aty of peace. I', have no doubt, that according to the law of England Mrs-.'. Shanks was born a British subject; that she was a British subject when she married Mr. Shanks in 1781, and that she continued so until her death. Iam therefore of opinion that the. decree of the circuit court should be reversed.
+On a rule against the master, it was held incompetent to go into proofs of the irregularity or unfairness of a sale of lands made by him; either for the purpose of invalidating the title of the purchaser, or mailing the master accountable for the value.
+On a rule against the master, W. H. Oibbcs, to shew cause why he did not proceed to sell two certain tracts of land, belonging to J. Stanyarne; the master made a return on oath, and shewed for cause, that he had duly sold the said two tracts of land to-Mazyck, and executed titles for the same, on the 6th February, 1823: That they composed a part of the plantation called in the said titles, Laurel Hill; which contained 349 acres; having under that name comprehendéd the said quantity of land while owned by Mr. Stanyarne, and which was declared at the sale. The master further stated that the report of the sales made by him of the lands of Stanyarne had been duly confirmed by the court. Mr. Hunt, in support of the rule, admitted that the two tracts of land before referred to, had been conveyed by the master to Mr. Mazyck; but he insisted that there was no regular and valid sale of them, and that the master should still proceed to sell them or be made to account for their value to the creditors of Stanyarne. He offered to go into proof of the irregularity of the sale; and the master stated that he was prepared to shew the fairness of it, by opposite proof.
+Chancellor Waties.
+I think it would be highly improper to permit, under the present proceeding, such an investigation. It would implicate the title of the purchaser of the lands, who is no party to the rule, and would lead to no result on which the court could make any definitive order. It would be to no purpose to shew any irregularity in the sale, for the court could not set it aside in a summary way; nor would the court make the master liable to the creditors of Stanyarne for the value of the two tracts said to be improperly conveyed to Mr. Mazyck; for this would be assuming the power of assessing damages, which properly belongs to a jury. If the creditors have been injured by the conveyance, they must seek their redress against the master and Mr. Mazyck; either by a bill in this court to set it aside, or by an action at lav? for damages. They have no-right, under this rule, to any other enquiry than whether the two tracts of land said to be unsold, have been actually conveyed by the master to Mr. Mazyck; and this fact has been admitted. The rule therefore must be discharged.
+On appeal, decree confirmed by the whole court.
