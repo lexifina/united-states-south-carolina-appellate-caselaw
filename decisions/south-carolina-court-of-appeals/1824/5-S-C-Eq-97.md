@@ -1,0 +1,33 @@
+---
+court: "South Carolina Court of Appeals"
+decided: "1824-04"
+citations: ["1 Harp. Eq. 97", "5 S.C. Eq. 97"]
+reporter: "sc-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chancellors-, James, Desaussure, Waties and Thompson, concurring."]
+parties: ["Joshua Teague, Admr. William Wendy, vs. John Dunlap."]
+source_url: "https://static.case.law/sc-eq/5/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8713942
+---
+
+# Teague v. Dunlap
+
+## Majority (Chancellor James.)
+
+Chancellor James.
+The bill states that William Dendy died intestate, and his widow, Patsey Dendy, and James Young’ administered on his estate; that the ordinary ordered a sale of said estate, and Patsy the administratrix, purchased in the greater part of it; that the letters of administration were after-wards revoked by the ordinary, and the complainant Joshua Teague was appointed administrator; that said Patsy surrendered to the administrator all the property so purchased, except a negro woman Fann and child, and a negro boy Georgey the first sold under an execution, and the latter now in the custody of the sheriff and the object of the present suit; that the debt due to the defendant under which George is taken, was not due by the estate, but is one of said Patsy in her individual capacity. Complainant prays that defendant may be enjoined from proceeding to sell the boy George, and that he may be delivered up to him as administrator.
+Defendant by his answer pleads to the jurisdiction of the court, and admits that said Patsy bid off the property to the amount of ,$3844 33; from which certain deductions ought to be made, which will leave a balance of $1,570 33. That the sale was fair and the property sold for 50 per cent, more than it would at present, and that if the sale be set aside, the estate will sustain a loss of about $1,700. Higadmits that the present debt, on which his execution was issued, was one of the said Patsy in her individual capacity, but that she ought not to be allowed to revoke her administration, to recover the property. He denies that the boy George belongs to the estate, but that he was purchased by the said Patsy at the sale aforesaid, and she exercised acts of ownership over him from the year 1817 until the filing of the bill* and so forth.
+Sinpson and Dunlap, for appellant,
+contended that tfiis case did not come within the principle of those in which’pus-chases by trustees have been set aside. Such purchases have been set aside in favor of the cestui qui trust, and for their benefit. There is no instance of the court’s interfering in favor of the creditors of the trust estate, against the individual creditors of trustee who purchased; but in this case, it does not even appear that creditors of the estate are concerned, or that the estate owes any debts. The application is not on behalf of the minors who are interested in the estate; on the contrary, it is manifest that they will be injured by the decree, as the property sold for 50 per cent more than can now be obtained for it. There is no pretence that Mrs. Dendy is insolvent, so that the debt may not be recovered of her, or- of the sureties to her administration bond. It seems plain that the only person to be benefited is Mrs. Dendy herself, who takes this method of getting rid of a hard bargain and defeating her creditor. It was at her instance that her administration was revoked, and the complainant appointed, and the rest of the property given up. She retained this property from the time of her purchase in' 1817, until 1823. It is difficult not to come to' the conclusion that she is the real complainant in this case. ‘It appears-from the case of Perry and Dixon, decided by this court that an administrator may purchase to the extent of his interest in the estate. After the proper deductions, her purchase will be found not to have'exceeded her share; or at all events, after giving up the rest of the property, the boy George did not exceed it, and upon him the lien of defendant’s execution attached.
+It appears from the papers and admissions on b.o.tb'sides, tthatj Patsy, the administratrix, paid for no part of the property purchased by her, and that the estate has lost greatly by sales made by the sheriff, ibr debts contracted by her in her individual capacity; that said' loss will amount at least to $2,052, which is more than the 1-3 she was entitled to out of the estate. And now upon the principle, of decided cases, the administratrix must be considered as a trustee purchasing af her own sale. She paid no money and kept possession of the property, and has no right to retain it against the minors. To? recover it, complainant was obliged to come into this court for an injunction and to set aside the sale, and for a specific delivery of the boy George. The revocation of her administration was made agreeably to law, and her one third has been exhausted. Defendant knew that she purchased at Iier own sale, as is admitted by the answer. Under these circumstances, he has no right to come in for his debt against the estate. The negro hoy George must therefore be delivered up to the complainant, with costs.
+From this decree the defendant appealed-
+1st. Because the complainant had sufficient remedy at law:
+2nd. Because his honor, the presiding judge, assumed on facts admitted, grounds that were neither admitted by defendant nor contended for by complainant:
+3rd. Because the said Patsy not. having purchased beyond her interest, is therefore not a trustee and if she were, she is not the party who has the right to claim a revision of her contracts, to her own benefit and to the manifest injury of the minors:
+4th. Because if the purchase is considered as a trust, the said Patsy7, to the extent of her interest, is one of the cestui qui trusts, and the execution of defendant created a lien on the property purchased by her to the extent of that interest, from the time of its entry, of which in law and equity he ought not to be divested. . . ■
+0‘JYeal, contra.
+Mrs. Dendy purchased to an amount far exceeding her share of the estate, and this- yitiates it altogether. You cannot say that the purchase is goo'd in part and bad in part. The court would have held the property to stand as a security for her purchase. Upon being advised that her purchase might be avoided, she very properly gave it up. Her contract in fact was rescinded with the administrator, who had authority to make such an arrangement with her, and this divested her title.
+The decree of the circuit court is affirmed, for the reasons contained therein.
+Chancellors-, James, Desaussure, Waties and Thompson, concurring.
